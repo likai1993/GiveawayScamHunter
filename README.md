@@ -7,11 +7,12 @@ All scam URLs collected from Twitter Lists are in scam_urls.md.
 ## Scam Cryptocurrency Addresses
 All scam cryptocurrency addresses and their associated URLs are in scam_addresses.md
 
-#### If you use our code or data, please cite our work as follows.
-
-    @inproceedings{li2024towards,  
-    title={Towards Understanding and Characterizing the Arbitrage Bot Scam In the Wild},  
-    author={Li, Kai and Guan, Shixuan and Lee, Darren},  
-    booktitle={ACM SIGMETRICS},  
-    year={2024}  
-    }  
+#### If you use our data, please cite our work as follows.
+```
+  @inproceedings{li2023understanding,  
+    title={Understanding the Cryptocurrency Free Giveaway Scam Disseminated on Twitter Lists},  
+    author={Li, Kai and Lee, Darren and Guan, Shixuan},  
+    booktitle={2023 IEEE International Conference on Blockchain (Blockchain)},  
+    year={2023}
+   }  
+```
