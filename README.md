@@ -1,4 +1,4 @@
-# Dataset of Crypcorrency Free Giveaway Scams collected from Twitter List
+# Crypcorrency Free Giveaway Scams collected from Twitter List
 This repository contains the dataset of free giveaway scams collected from Twitter Lists, including the scam URLs and scam cryptocurrency addresses. The result is published in the paper "Understanding the Cryptocurrency Free Giveaway Scam Disseminated on Twitter Lists" accepted by IEEE Blockchain 2023.
 
 ## Scam URls
